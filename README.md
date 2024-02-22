@@ -5,3 +5,4 @@
 # Features:-
 ### Counts the number of characters and words as the user types.
 ### Updates the counts dynamically without requiring a page refresh.
+[Click here to use] (https://saddabcodes.github.io/Word-Counter/)
